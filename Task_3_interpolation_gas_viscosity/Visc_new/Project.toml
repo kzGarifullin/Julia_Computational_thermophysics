@@ -1,0 +1,7 @@
+name = "Visc_new"
+uuid = "15480bd1-fb38-4037-b483-32d94cc12ece"
+authors = ["kamil "]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
