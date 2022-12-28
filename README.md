@@ -1,9 +1,10 @@
 # Julia_course
 
-Workshop in Computational Thermophysics: the emphasis is on the implementation
-of the computational methods and their application to thermophysical problems
+### Workshop in Computational Thermophysics 
+The emphasis is on the implementation of the computational methods and their application to thermophysical problems
 
-The course was devoted to:
+The course is devoted to:
+
 Floating point numbers
 
 Task conditionality
@@ -45,7 +46,7 @@ Newton's method (nonlinear systems)
 Broyden method
 
 -----------
-Семинар по вычислительной теплофизике с акцентом на реализацию вычислительных методов и их применению к теплофизическим задачам
+### Практикум по вычислительной теплофизике с акцентом на реализацию вычислительных методов и их применению к теплофизическим задачам
 
 Курс посвящен:
 
